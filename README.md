@@ -1,7 +1,7 @@
 # Bangalore-Home-Prices-Prediction
 This project aims to predict home prices in Bangalore based on various input features such as area (in square feet), number of bedrooms, number of bathrooms, and location. The prediction model utilizes machine learning techniques to analyze historical data and make accurate price estimates for residential properties in Bangalore.
 
-Features
+## Features
 Area (sqft): The total area of the property in square feet.
 Number of Bedrooms: The total number of bedrooms in the property.
 Number of Bathrooms: The total number of bathrooms in the property.
